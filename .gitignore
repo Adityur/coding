@@ -1,0 +1,18 @@
+# secrets / local config
+.env
+.env.*
+!.env.example
+# user data written at runtime
+data/user_watchlist.json
+data/reference_live.json
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# desktop build output
+build/
+dist/
+desktop/build/
+desktop/dist/

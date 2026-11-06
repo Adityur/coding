@@ -1,0 +1,27 @@
+{
+  "benchmark": "NIFTY 50",
+  "symbols": [
+    {"symbol": "RELIANCE", "name": "Reliance Industries", "sector": "Energy", "fno": true},
+    {"symbol": "ONGC", "name": "Oil & Natural Gas Corp", "sector": "Energy", "fno": true},
+    {"symbol": "NTPC", "name": "NTPC", "sector": "Energy", "fno": true},
+    {"symbol": "TCS", "name": "Tata Consultancy Services", "sector": "IT", "fno": true},
+    {"symbol": "INFY", "name": "Infosys", "sector": "IT", "fno": true},
+    {"symbol": "WIPRO", "name": "Wipro", "sector": "IT", "fno": true},
+    {"symbol": "HCLTECH", "name": "HCL Technologies", "sector": "IT", "fno": true},
+    {"symbol": "HDFCBANK", "name": "HDFC Bank", "sector": "Banking", "fno": true},
+    {"symbol": "ICICIBANK", "name": "ICICI Bank", "sector": "Banking", "fno": true},
+    {"symbol": "SBIN", "name": "State Bank of India", "sector": "Banking", "fno": true},
+    {"symbol": "AXISBANK", "name": "Axis Bank", "sector": "Banking", "fno": true},
+    {"symbol": "KOTAKBANK", "name": "Kotak Mahindra Bank", "sector": "Banking", "fno": true},
+    {"symbol": "BAJFINANCE", "name": "Bajaj Finance", "sector": "Financial Services", "fno": true},
+    {"symbol": "LT", "name": "Larsen & Toubro", "sector": "Capital Goods", "fno": true},
+    {"symbol": "ITC", "name": "ITC", "sector": "FMCG", "fno": true},
+    {"symbol": "HINDUNILVR", "name": "Hindustan Unilever", "sector": "FMCG", "fno": true},
+    {"symbol": "MARUTI", "name": "Maruti Suzuki", "sector": "Auto", "fno": true},
+    {"symbol": "M&M", "name": "Mahindra & Mahindra", "sector": "Auto", "fno": true},
+    {"symbol": "SUNPHARMA", "name": "Sun Pharmaceutical", "sector": "Pharma", "fno": true},
+    {"symbol": "TITAN", "name": "Titan Company", "sector": "Consumer", "fno": true},
+    {"symbol": "BHARTIARTL", "name": "Bharti Airtel", "sector": "Telecom", "fno": true},
+    {"symbol": "ASIANPAINT", "name": "Asian Paints", "sector": "Consumer", "fno": true}
+  ]
+}

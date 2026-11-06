@@ -1,0 +1,20 @@
+{
+  "name": "swing-watchlist-ai-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Android shell (Capacitor) for the Swing Watchlist AI web frontend",
+  "scripts": {
+    "sync-web": "node scripts/sync-web.mjs",
+    "sync": "npm run sync-web && npx cap sync android",
+    "open": "npx cap open android",
+    "build:debug": "npm run sync && cd android && ./gradlew assembleDebug",
+    "build:release": "npm run sync && cd android && ./gradlew bundleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/core": "8.5.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "8.5.3"
+  }
+}

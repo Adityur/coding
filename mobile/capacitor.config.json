@@ -1,0 +1,12 @@
+{
+  "appId": "com.swingwatchlist.ai",
+  "appName": "Swing Watchlist AI",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}

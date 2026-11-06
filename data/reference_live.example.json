@@ -1,0 +1,15 @@
+{
+  "_comment": "Copy to data/reference_live.json and maintain it yourself (e.g. from Screener/NSE exports). SAMCO does not supply fundamentals or news. Any field you omit is shown as unavailable and excluded from scoring. Values below are placeholders - replace them with real data before relying on them.",
+  "as_of": "2026-11-01",
+  "source": "Manual entry",
+  "symbols": {
+    "INFY": {
+      "fundamentals": {"roe": 0.0, "roe_growth": 0.0, "sales_growth": 0.0, "profit_growth": 0.0, "pe": 0.0, "sector_pe": 0.0},
+      "shareholding": {"fii_change": 0.0, "dii_change": 0.0, "as_of": "2026-09-30"},
+      "news": [
+        {"headline": "Replace with a real headline", "date": "2026-11-01", "sentiment": 0.0, "catalyst": false, "source": "Exchange filing"}
+      ],
+      "fno": {"oi": 0, "oi_change_pct": 0.0, "pcr": 1.0, "as_of": "2026-11-01"}
+    }
+  }
+}
